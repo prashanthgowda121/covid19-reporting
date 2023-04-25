@@ -1,0 +1,10 @@
+country,country_code,continent,population,indicator,weekly_count,year_week,rate_14_day,cumulative_count,source,note
+Austria,AUT,Europe,8978929,cases,NA,2020-01,NA,NA,TESSy COVID-19,
+Austria,AUT,Europe,8978929,cases,NA,2020-02,NA,NA,TESSy COVID-19,
+Austria,AUT,Europe,8978929,cases,NA,2020-03,NA,NA,TESSy COVID-19,
+Austria,AUT,Europe,8978929,cases,NA,2020-04,NA,NA,TESSy COVID-19,
+Austria,AUT,Europe,8978929,cases,NA,2020-05,NA,NA,TESSy COVID-19,
+Austria,AUT,Europe,8978929,cases,NA,2020-06,NA,NA,TESSy COVID-19,
+Austria,AUT,Europe,8978929,cases,NA,2020-07,NA,NA,TESSy COVID-19,
+Austria,AUT,Europe,8978929,cases,NA,2020-08,NA,NA,TESSy COVID-19,
+Austria,AUT,Europe,8978929,cases,12,2020-09,NA,12,TESSy COVID-19,
